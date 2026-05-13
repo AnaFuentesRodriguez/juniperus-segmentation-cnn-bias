@@ -1,2 +1,2 @@
 # Notebooks
-Preprocessing, training and evaluation notebooks used in the project.
+Preprocessing data and training and evaluation notebooks used in the project.
