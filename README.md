@@ -105,5 +105,5 @@ The complete master's thesis report is included in the repository.
 
 ## Author
 
-Ana Fuentes Rodríguez 
+Ana Fuentes Rodríguez. 
 BSc in Physics | MSc in Data Science and Computer Engineering
