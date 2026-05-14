@@ -121,22 +121,23 @@ The project combines both semantic and instance-level evaluation metrics, includ
 
 ---
 
-## Repository Structure
-
-```text
-notebooks/    -> training and evaluation notebooks
-images/       -> figures, visual results and comparison plots
-report/       -> master's thesis report
-```
-
----
-
 ## Main Findings
 - Mask R-CNN provided the most robust overall performance across datasets.
 - Semantic segmentation models achieved smoother global masks but struggled with individual shrub separation.
 - Instance-based approaches improved delineation of isolated shrubs.
 - CNN texture bias significantly affected generalization under domain shift conditions.
 - Performance degradation was especially noticeable in heterogeneous terrain and boundary-heavy regions.
+
+---
+
+## Repository Structure
+
+```text
+notebooks/     -> training and evaluation notebooks
+images/        -> figures, visual results and comparison plots
+report/        -> master's thesis report
+presentation/  -> slides for the oral presentation of de project.
+```
 
 ---
 
